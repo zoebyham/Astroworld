@@ -1,0 +1,23 @@
+#nasa {
+  height: 20%;
+  width: 20%;
+
+}
+
+#pic {
+  height: 50%;
+  width: 50%;
+}
+
+#Astroworld {
+  width: 75%;
+  height: 75%;
+}
+
+h1 {
+  height: 20px;
+}
+
+body {
+  background-image: linear-gradient(-90deg, red, white, blue);
+}
